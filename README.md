@@ -21,10 +21,6 @@
 - [:bulb: Help](#bulb-help)
   - [Additional information](#additional-information)
   - [Real-time conversation](#real-time-conversation)
-- [:rocket: Alternative Funding Sources](#rocket-alternative-funding-sources)
-  - [Treasury](#treasury)
-  - [Hackathons](#hackathons)
-  - [Other Grant Programs](#other-grant-programs)
 
 ## :wave: Introduction
 
@@ -216,10 +212,6 @@ We have Matrix/Element channels for real-time discussions on Web3 and Polkadot. 
 Besides, we also have a **community room for all grant recipients**. Head over to that room to share your experience with other grantees, ask grants-related questions or simply hang out:
 
 - [W3F Grants Community](https://matrix.to/#/!XpynPDLusWUWfDpaqr:matrix.org?via=web3.foundation&via=matrix.org)
-
-## :rocket: Alternative Funding Sources
-
-Some funding sources might be more and some less suitable for your project throughout its various stages. We encourage you to explore alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its Web3 Foundation support terminated.
 
 ## :information_source: License<!-- omit in toc -->
 
