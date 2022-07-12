@@ -55,7 +55,7 @@ We also try to enforce our [code of conduct](CODE_OF_CONDUCT.md) and based on th
 
 ### Project ideas
 
-An overview of existing projects in the Web 3.0 Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](docs/polkadot_stack.md), as well as a list of previously accepted applications [here](docs/accepted_grant_applications.md).
+An overview of existing projects in the Pangolin Technology Stack along with broad project ideas we would potentially be interested in funding can be found [here](docs/polkadot_stack.md), as well as a list of previously accepted applications [here](docs/accepted_grant_applications.md).
 
 [Requests For Proposals](rfps) (RFPs) represent concrete ideas for projects that we would like to see implemented. Several teams may apply for the same RFP, so even if another team has already applied to implement a certain RFP, we invite you to do the same if you're interested.
 
