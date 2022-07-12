@@ -26,6 +26,7 @@ If you find an open RFP here that you think you can address, feel free to [submi
 | [concentrated_liquidity.md](./open/concentrated_liquidity.md) | :green_circle: | 12.07.2022 |   
 | [balancer.md](./open/balancer.md) | :green_circle: | 12.07.2022 | 
 | [arbitrage_bot.md](./open/arbitrage_bot.md) | :green_circle: | 12.07.2022 | 
+| [marketing.md](./open/marketing.md) | :green_circle: | 12.07.2022 | 
 
 ## :mailbox_with_mail: Suggest an RFP
 
