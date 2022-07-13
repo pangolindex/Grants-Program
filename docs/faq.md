@@ -1,4 +1,4 @@
-#### Web3 Foundation Grants Program
+#### Pangolin Grants Program
 
 # Frequently Asked Questions<!-- omit in toc -->
 
@@ -19,7 +19,7 @@
 - [🥳 After Approval](#-after-approval)
   - [When can I apply for a follow-up grant?](#when-can-i-apply-for-a-follow-up-grant)
   - [Something came up and I cannot finish the project in time. Can we postpone or call off the rest of my project?](#something-came-up-and-i-cannot-finish-the-project-in-time-can-we-postpone-or-call-off-the-rest-of-my-project)
-  - [Can I list the Web3 Foundation as a partner?](#can-i-list-the-web3-foundation-as-a-partner)
+  - [Can I list Pangolin as a partner?](#can-i-list-pangolin-as-a-partner)
   - [Can you help me advertise my project?](#can-you-help-me-advertise-my-project)
   - [I found one of my deliverables to be unnecessary, impossible or already done elsewhere. What do I do?](#i-found-one-of-my-deliverables-to-be-unnecessary-impossible-or-already-done-elsewhere-what-do-i-do)
 - [🚚 Milestone Delivery](#-milestone-delivery)
@@ -37,12 +37,12 @@
 
 ### What activities/positions do you fund?
 
-  The Web3 Foundation's Grants Program aims to fund software development and research activities that are beneficial for the ecosystem as a whole. As such, we don't usually fund tangential costs such as business-oriented activities (marketing, business planning), events or outreach, and—for non-infrastructure projects—deployment and hosting costs, maintenance or audits. We also expect you to have a good understanding of the technologies you are planning to use, meaning that we don't fund time spent learning how to use Substrate or how to write ink! smart contracts.
+  Pangolin's Grants Program aims to fund software development and research activities that are beneficial for the ecosystem as a whole. As such, we don't usually fund tangential costs such as business-oriented activities (marketing, business planning), events or outreach, and—for non-infrastructure projects—deployment and hosting costs, maintenance or audits. We also expect you to have a good understanding of the technologies you are planning to use, meaning that we don't fund time spent learning how to use Substrate or how to write ink! smart contracts.
 
 
 ### Can anyone apply?
 
-  Projects for which a token sale has been or is being conducted are not eligible for a Web3 Foundation grant. Other than that, there are no restrictions.
+  Projects for which a token sale has been or is being conducted are not eligible for a Pangolin grant. Other than that, there are no restrictions.
 
 
 ### Can I get an upfront payment?
@@ -67,7 +67,7 @@
 
 ### One of your grantees is using my code without respecting the terms of its license.
 
-  Please [reach out to us](mailto:grants@web3.foundation) asap.
+  Please [reach out to us](mailto:sachin@pangolin.exchange) asap.
 
 
 ### Why are other grant applications being accepted faster than mine?
@@ -106,19 +106,19 @@
   The Web3 Foundation reserves the right to terminate an agreement that is behind schedule. However, we are not interested in taking away your grant for any slight hiccup. More often than not, delays are part of the journey and do not constitute a reason for concern. The best way to handle changes in your plans is to get in touch with us. If you would like to prematurely end your work, we can amend your application and remove the milestones you won't be able to complete. If you decide to continue work at a later date, you can always reapply for the remaining milestones and potentially adapt them to take into account any insights you have gained in the meantime.
 
 
-### Can I list the Web3 Foundation as a partner?
+### Can I list the Pangolin as a partner?
 
   No. Once the grants team has accepted your first milestone, you may display our [grants badge](https://github.com/w3f/Grants-Program/blob/master/docs/grant-badge-guidelines.md) in a project-specific context, such as the repository containing the grant project work.
 
 
 ### Can you help me advertise my project?
 
-  The Web3 Foundation does not provide PR services to its grantees. However, once per month we co-promote announcements from grants that have delivered a milestone on [Twitter](https://twitter.com/Web3foundation). Note that the milestone needs to have been accepted prior to the announcement. Lastly, please observe our [announcement guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/announcement-guidelines.md) for all grant-related communications. This document also lists an email address through which you can get in touch with our PR team for feedback and in case you have specific questions.
+  Pangolin does not provide PR services to its grantees. However, once per month we co-promote announcements from grants that have delivered a milestone on [Twitter](https://twitter.com/pangolindex). Note that the milestone needs to have been accepted prior to the announcement. Lastly, please observe our [announcement guidelines](https://github.com/w3f/Grants-Program/blob/master/docs/announcement-guidelines.md) for all grant-related communications. This document also lists an email address through which you can get in touch with our PR team for feedback and in case you have specific questions.
 
 
 ### I found one of my deliverables to be unnecessary, impossible or already done elsewhere. What do I do?
 
-  Plans change. If you find parts of your original grant application to be unnecessary or you decide to pivot, but you still want to finish the project: get in touch with us. If your new plans are in line with the Web3 Foundation’s values and the council approves the amendment, you can continue your work. If your plans change significantly or you find yourself not being able to finish the grant, we can mutually agree to terminate the grant early. You are always welcome to reapply another time.
+  Plans change. If you find parts of your original grant application to be unnecessary or you decide to pivot, but you still want to finish the project: get in touch with us. If your new plans are in line with Pangolin’s values and the council approves the amendment, you can continue your work. If your plans change significantly or you find yourself not being able to finish the grant, we can mutually agree to terminate the grant early. You are always welcome to reapply another time.
 
 
 

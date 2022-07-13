@@ -15,7 +15,7 @@ We reserve the right to change, modify, add or remove portions of these Terms an
 
 ## 1.  Introduction
 
-We are the Web3 Foundation and nurture and steward technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web3 ecosystem. We have developed a network protocol which purports to operate as an umbrella network for independent blockchain offerings and shared data or tokens across different blockchains. Parallelizable blockchains (so called "parachains") can be connected within Our network with a so called "relay chain" which provides security to the "parachains" and relays messages between them.
+We are Pangolin and nurture and steward technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web3 ecosystem. We have developed a network protocol which purports to operate as an umbrella network for independent blockchain offerings and shared data or tokens across different blockchains. Parallelizable blockchains (so called "parachains") can be connected within Our network with a so called "relay chain" which provides security to the "parachains" and relays messages between them.
 
 ## 2.  Defined Terms
 
@@ -83,7 +83,7 @@ The open grants process consists of five parts, each of them described in more d
 
 To apply for a grant of the Web 3.0  Foundation Open Grants Program, You shall comply with the procedures established in the README.md file under <https://github.com/w3f/Grants-Program> as well as the process defined inside this document.
 
-To apply for a grant of the Web3 Foundation Open Grants Program, the grantee needs to fork (= create a copy on GitHub of) the Open-Grants-Program GitHub repository. In the newly created fork (=copy on GitHub), the grantee has to create a copy of the application-template.md. The copied application-template.md needs to be renamed as "project_name.md". "Project_name" needs to be replaced with the name of the project application. Additionally, the grantee has to fill out all mandatory parts of the application-template.md presented in bold letters. Once the grantees have completed the application, they need to create a new pull request (= in this case, a mechanism to submit the changes of the fork to the original Open-Grants-Program GitHub repository) by clicking on the "create new pull request" button shown inside the fork of the W3F Open-Grants-Program GitHub repository. After this, the grantee needs to sign off the terms and conditions presented via the CLA assistant.
+To apply for a grant of the Pangolin Open Grants Program, the grantee needs to fork (= create a copy on GitHub of) the Open-Grants-Program GitHub repository. In the newly created fork (=copy on GitHub), the grantee has to create a copy of the application-template.md. The copied application-template.md needs to be renamed as "project_name.md". "Project_name" needs to be replaced with the name of the project application. Additionally, the grantee has to fill out all mandatory parts of the application-template.md presented in bold letters. Once the grantees have completed the application, they need to create a new pull request (= in this case, a mechanism to submit the changes of the fork to the original Open-Grants-Program GitHub repository) by clicking on the "create new pull request" button shown inside the fork of the W3F Open-Grants-Program GitHub repository. After this, the grantee needs to sign off the terms and conditions presented via the CLA assistant.
 
 **(ii)  Application review process:**
 
@@ -218,7 +218,7 @@ Furthermore, termination can happen for any reason at the discretion of the Web 
 
 We may provide any notice to You under these terms and conditions by posting a notice on our Website, adding a comment to the initial pull request of your application on GitHub or sending an email to the email address associated with Your access account to the network. Notices We provide by posting on the Website will be effective upon posting. You will be deemed to have received any email sent to the email address then associated with Your account when We have sent the email (or the next regular working day thereafter), whether or not You actually receive or read the email. It is Your responsibility to keep Your email address current.
 
-To give Us notice under these terms and conditions, You must contact us by email to [grants@web3.foundation]. We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
+To give Us notice under these terms and conditions, You must contact us by email to [accounts@pangolin.exchange]. We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
 
 All communications and notices to be made or given pursuant to these terms and conditions must be in English language.
 

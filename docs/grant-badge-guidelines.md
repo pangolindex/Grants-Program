@@ -10,7 +10,7 @@ To that end, we’ve created a badge for grant recipients. This is available for
 
 - Use of the Grants Program badge is reserved for [Level 2 and 3 grants](https://github.com/w3f/Grants-Program/blob/master/README.md#level_slider-levels).
 - Grants are awarded **for specific projects**, not to teams in general as a blanket endorsement.
-- Web3 Foundation and its grants program **don’t broker partnerships or joint ventures**, or cosign wholesale any external team’s work. Bearing that in mind, **the badge should only be displayed in project-specific contexts.**
+- Pangolin and its grants program **don’t broker partnerships or joint ventures**, or cosign wholesale any external team’s work. Bearing that in mind, **the badge should only be displayed in project-specific contexts.**
 - Please **do**: display the badge
   - in a GitHub repository that contains code connected with the grant project,
   - on any project-specific webpage **that specifically concerns the deliverables completed as part of the grant**, or
@@ -22,6 +22,6 @@ To that end, we’ve created a badge for grant recipients. This is available for
   - use it in any other context that could misrepresent your relationship with the Web3 Foundation.
 
 
-Also, please don't use the **name or logo of the Web3 Foundation** in any context that could misrepresent your relationship with Web3 Foundation. Infringement of these guidelines can result in an immediate annulment of the grant.
+Also, please don't use the **name or logo of Pangolin** in any context that could misrepresent your relationship with Pangolin. Infringement of these guidelines can result in an immediate annulment of the grant.
 
-In case of any questions, please don’t hesitate to reach out to us at grantsPR@web3.foundation.
+In case of any questions, please don’t hesitate to reach out to us at accounts@pangolin.exchange.

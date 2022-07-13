@@ -203,4 +203,4 @@ Please note that:
 
 ## :information_source: License<!-- omit in toc -->
 
-[Apache License 2.0](LICENSE) © Web3 Foundation
+[Apache License 2.0](LICENSE) © Pangolin
