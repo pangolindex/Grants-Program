@@ -155,11 +155,11 @@ The Pangolin Grants Program offers different grant levels to help you best depen
 
 ## :mailbox_with_mail: Suggest a Project
 
-If you think that we should support the development of certain tools or projects that aren't in the Polkadot/Kusama [tech stack](docs/polkadot_stack.md), feel free to submit a suggestion using the process described below. We are particularly interested in supporting projects that could be leveraged by other builders in our ecosystem.
+If you think that we should support the development of certain tools or projects that aren't in the Pangolin [tech stack](docs/pangolin_stack.md), feel free to submit a suggestion using the process described below. We are particularly interested in supporting projects that could be leveraged by other builders in our ecosystem.
 
 **Submit an idea:**
 
-If you have an idea for a project or would like to highlight an area in which you'd like to see teams build, but lack the technical background to create a detailed outline, you're welcome to open an [issue](https://github.com/w3f/Grants-Program/issues/new) or add it to the [tech stack](docs/polkadot_stack.md) as a potentially interesting project. We will review your suggestion and, if necessary, will create an RFP based on it and reach out to teams able to build it.
+If you have an idea for a project or would like to highlight an area in which you'd like to see teams build, but lack the technical background to create a detailed outline, you're welcome to open an [issue](https://github.com/w3f/Grants-Program/issues/new) or add it to the [tech stack](docs/pangolin_stack.md) as a potentially interesting project. We will review your suggestion and, if necessary, will create an RFP based on it and reach out to teams able to build it.
 
 **Submit an RFP (Request for Proposals):**
 
@@ -174,7 +174,7 @@ Ideas generally have better chances of being implemented if they're presented in
 
 ## :hammer_and_wrench: Maintenance Grants
 
-Maintenance Grants are yet another idea to get involved with the Polkadot community. If you are a user of an open-source library that has gone out of date, or you simply want to work on small new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
+Maintenance Grants are yet another idea to get involved with the Pangolin community. If you are a user of an open-source library that has gone out of date, or you simply want to work on small new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
 
 The process of applying for a Maintenance Grant is similar to what was already outlined above, but instead of defining very detailed deliverables for each milestone upfront, we will ask you to specify, where possible:
 
@@ -199,19 +199,7 @@ Please note that:
 
 | <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/like.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [W3F Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
-
-### Real-time conversation
-
-We have Matrix/Element channels for real-time discussions on Web3 and Polkadot. Join the conversation.
-
-- [Web3 Foundation Chat](https://matrix.to/#/#w3f:matrix.org)
-- [Polkadot Space](https://matrix.to/#/#polkadot:web3.foundation)
-- [Kusama Space](https://matrix.to/#/#kusama:web3.foundation)
-
-Besides, we also have a **community room for all grant recipients**. Head over to that room to share your experience with other grantees, ask grants-related questions or simply hang out:
-
-- [W3F Grants Community](https://matrix.to/#/!XpynPDLusWUWfDpaqr:matrix.org?via=web3.foundation&via=matrix.org)
+| [Pangolin Website](https://pangolin.exchange) | [Pangolin Twitter](https://twitter.com/pangolindex) | [Pangolin Medium](https://pangolindex.medium.com/) | [Pangolin Reddit](https://www.reddit.com/r/PangolinExchange/) | [Pangolin YouTube](https://www.youtube.com/c/pangolinexchange) |
 
 ## :information_source: License<!-- omit in toc -->
 

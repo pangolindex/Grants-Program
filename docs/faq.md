@@ -9,7 +9,6 @@
   - [Can I get an upfront payment?](#can-i-get-an-upfront-payment)
   - [When do I get paid?](#when-do-i-get-paid)
   - [Can I reuse someone else’s open-source code?](#can-i-reuse-someone-elses-open-source-code)
-  - [I am starting a company that [...]. I want to use Polkadot/Kusama/Substrate to build a blockchain/parachain and connect [...]. Would I be eligible for a grant?](#i-am-starting-a-company-that--i-want-to-use-polkadotkusamasubstrate-to-build-a-blockchainparachain-and-connect--would-i-be-eligible-for-a-grant)
   - [My application was rejected. Do you have any recommendations on where to go from here?](#my-application-was-rejected-do-you-have-any-recommendations-on-where-to-go-from-here)
   - [One of your grantees is using my code without respecting the terms of its license.](#one-of-your-grantees-is-using-my-code-without-respecting-the-terms-of-its-license)
   - [Why are other grant applications being accepted faster than mine?](#why-are-other-grant-applications-being-accepted-faster-than-mine)
@@ -59,11 +58,6 @@
 ### Can I reuse someone else’s open-source code?
 
   Open source software and the Web3 movement are all about collaboration. As long as you meet the code’s license, we encourage you to find, modify and contribute to already existing libraries and projects if it is of use for your project. However, we expect you to honour other people’s work and their right to attribution, and your published code to adhere to the license requirements of the code you are benefiting from. Submitting code as part of a milestone that violates someone else’s license will result in immediate termination. We will furthermore continue to monitor any repositories you may have submitted as part of a milestone for possible license infringements and reserve the right to terminate the grant if we find you going out of your way to hide external contributions.
-
-
-### I am starting a company that [...]. I want to use Polkadot/Kusama/Substrate to build a blockchain/parachain and connect [...]. Would I be eligible for a grant?
-
-  What the Web3 Foundation is mainly looking for to support are projects "[driving advancement and adoption of decentralized software protocols [and] that make it easier for developers to build useful applications using these protocols.](https://web3.foundation/grants/)" As such, we do not award grants to individual companies developing their private infrastructure. However, if part of your work is to build a library or another piece of software that could be of interest to the general Polkadot/Kusama/Substrate ecosystem and ask for funding specific to that, we are happy to look into it.
 
 
 ### My application was rejected. Do you have any recommendations on where to go from here?
